@@ -5,10 +5,10 @@
 		"factoryName": {
 			"value": "Day3ADFusingPolybase"
 		},
-		"AzureSqlDatabaseLinkedService_connectionString": {
+		"AzureSqlDWLinkedService_connectionString": {
 			"value": ""
 		},
-		"AzureSqlDWLinkedService_connectionString": {
+		"AzureSqlDatabaseLinkedService_connectionString": {
 			"value": ""
 		},
 		"AzureStorageLinkedService_connectionString": {
